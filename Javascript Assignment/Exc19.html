@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 19</title>
+</head>
+<body>
+    <div style="background-color: #c18fa7; border: 2px solid #bd7c9b; padding: 10px; width: 400px">
+
+        <h2>Exercise 19</h2>
+
+        <label for="input">Minutes</label><br />
+        <input id="input" type="number" />
+        <button onclick="convertToHours()">Convert to hours</button>
+        <p id="output"></p>
+
+        <script>
+            function convertToHours() {
+                let hours = Math.floor((document.getElementById("input").value) / 60);
+                let minutes = (document.getElementById("input").value) % 60;
+
+                document.getElementById("output").innerHTML = hours + "h " + minutes + "min";
+            }
+
+        </script>
+
+
+        <a href="Index.html">Back to index page </a>
+
+    </div>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

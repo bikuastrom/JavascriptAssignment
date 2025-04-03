@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 20</title>
+</head>
+<body>
+    <div style="background-color: #9cffe1; border: 2px solid #6aface; padding: 10px; width: 400px">
+
+        <h2>Exercise 20</h2>
+
+        <label for="input">Enter your birthyear</label><br />
+        <input id="input" type="number" />
+        <button onclick="calcAge()">Get Age</button>
+        <p id="output"></p>
+
+        <script>
+            function calcAge() {
+                let date = new Date();
+                let year = document.getElementById("input").value;
+                let result = String(date.getFullYear()) - year;
+
+                if (result < 0) {
+                    document.getElementById("output").innerHTML = "You will be born in " + Math.abs(result) + " years";
+                }
+
+                else if (result == 0) {
+                    document.getElementById("output").innerHTML = "You were born this year";
+
+                }
+
+                else {
+                    document.getElementById("output").innerHTML = "You are " + result + " years old this year";
+                }
+
+
+            }
+        </script>
+
+        <a href="Index.html">Back to index page </a>
+
+    </div>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

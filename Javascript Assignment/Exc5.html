@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 5</title>
+</head>
+<body>
+    <div style="background-color: #ef7474; border: 2px dashed #eacbcb; padding: 10px; width: 400px">
+        <h2>Exercise 5</h2>
+
+        <p id="result"></p>
+
+
+        <script>
+            let today = new Date();
+            let xmas = new Date(today.getFullYear(), 11, 24);
+            let day = Math.ceil((xmas - today) / (1000 * 60 * 60 * 24));
+            document.getElementById("result").innerHTML = day + " days until Christmas";
+        </script>
+
+        <a href="Index.html">Back to index page </a>
+
+    </div>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

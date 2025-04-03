@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 13</title>
+</head>
+<body>
+    <h2>Exercise 13</h2>
+
+    <button onclick="happyNum()">Find Happy Numbers</button>
+
+    <p id="output"></p>
+
+    <script>
+        function happyNum() {
+            function happy_number(num) {
+                let m, n;
+                let c = [];
+
+                while (num !== 1 && c[num] !== true) {
+                    c[num] = true;
+                    m = 0;
+
+                    while (num > 0) {
+                        n = num % 10;
+                        m += n * n;
+                        num = (num - n) / 10;
+                    }
+
+                    num = m;
+                }
+
+                return (num === 1);
+            }
+
+            let count = 10;
+            let num = 1;
+            let result = '';
+
+            while (count-- > 0) {
+                while (!happy_number(num))
+                    num++;
+
+                result = result + (num + ", ");
+                num++;
+            }
+            document.getElementById("output").innerHTML = "First 10 happy numbers are: " + result;
+        }
+
+        // I tried a lot of approaches but couldn't get it to work :<
+
+        ////function happyNum() {
+        ////    let num = 1;
+        ////    let tempNum;
+        ////    let count = 0;
+        ////    let temp;
+        ////    let result;
+        ////    let bool = true;
+        ////    while (count < 10) {
+        ////        tempNum = num;
+
+        ////        let temp2 = 0;
+        ////        while (tempNum > 0 && bool == true) {
+
+        ////            temp = temp % 10;
+        ////            temp = Math.floor(temp / 10);
+        ////            temp2 += temp * temp;
+        ////            if (temp2 == 1) {
+        ////                result = num + " ";
+        ////                count++;
+        ////                bool = false;
+        ////            }
+        ////            else if (temp2 == num) {
+        ////                bool = false;
+        ////            }
+        ////            console.log(num);
+        ////            tempNum = temp2;
+        ////        }
+        ////        num++
+        ////        bool = true;
+
+        ////    }
+        ////    document.getElementById("output").innerHTML = result;
+        ////}
+
+
+
+
+        //let result = "";
+        //for (let i = 1, j = 0; j < 10; i++) {
+        //    let num = i;
+        //    const splitNum = num.split("");
+        //    let tempNum;
+
+        //    for (k = 0; k < splitNum.length; k++) {
+        //        tempNum += (splitNum[k] * splitNum[k]);
+        //    }
+        //}
+        //}
+    </script>
+
+    <a href="Index.html">Back to index page </a>
+
+    <script src="JavaScript.js"></script>
+</body>
+</html>

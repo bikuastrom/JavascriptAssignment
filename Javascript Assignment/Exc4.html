@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 4</title>
+</head>
+<body>
+    <div style="background-color: #a780b2; border: 2px solid #9866a7; padding: 10px; width: 400px">
+        <h2>Exercise 4</h2>
+
+
+        <label for="guess">Your Guess</label><br />
+        <input type="number" min="1" max="10" id="guess" /><br />
+        <button onclick="checkRandom()">Guess</button>
+        <p id="result"></p>
+
+        <script>
+            const target = Math.floor(Math.random() * 10) + 1;
+            console.log(target);
+            function checkRandom() {
+                let guess = document.getElementById("guess").value;
+
+                if (guess == target) {
+                    document.getElementById("result").innerHTML = "Good job!";
+                }
+                else {
+                    document.getElementById("result").innerHTML = "Did not match";
+                }
+            }
+
+
+        </script>
+
+        <a href="Index.html">Back to index page </a>
+
+    </div>
+
+    <script src="JavaScript.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 17</title>
+</head>
+<body>
+    <div style="background-color: #aeaeae; border: 2px solid #8b8b8b; padding: 10px; width: 400px">
+
+        <h2>Exercise 17</h2>
+
+        <label for="input">Enter a series of items to remove 'null' and 0 from</label>
+        <input id="input" />
+        <button onclick="removeNull()">Remove 'null' and 0</button>
+        <p id="output"></p>
+
+
+        <script>
+            function removeNull() {
+                let input = (document.getElementById("input").value).split(" ");
+                let output = "";
+
+                for (let i = 0; i < input.length; i++) {
+                    if (input[i] != "null" && input[i] != 0) {
+                        output += input[i] + " ";
+                    }
+                }
+
+                document.getElementById("output").innerHTML = output;
+            }
+        </script>
+
+
+        <a href="Index.html">Back to index page </a>
+
+        </div>
+        <script src="JavaScript.js"></script>
+</body>
+</html>

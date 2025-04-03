@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 2</title>
+</head>
+<body>
+    <div style="background-color:#f28a7f; border: 2px solid #e57367; padding:10px; width:400px">
+        <h2>Exercise 2</h2>
+
+        <label for="year">Year</label><br />
+        <input type="number" min="1" max="9999" id="year" /><br />
+        <button onclick="checkLeap()">Check if Leap Year</button>
+        <p id="result"></p>
+
+        <script>
+            function checkLeap() {
+                let year = document.getElementById("year").value;
+                let leap = false;
+                if (year % 4 == 0 && year % 100 != 0) {
+                    leap = true;
+                }
+                else if (year % 400 == 0) {
+                    leap = true;
+                }
+                else {
+                    leap = false;
+                }
+                if (leap == true) {
+                    document.getElementById("result").innerHTML = "It is a leap year";
+                }
+                else if (leap == false) {
+                    document.getElementById("result").innerHTML = "It is not a leap year";
+                }
+            }
+
+        </script>
+
+
+
+        <br /><a href="Index.html">Back to index page </a>
+    </div>
+
+    <script src="JavaScript.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 8</title>
+</head>
+<body>
+    <div style="background-color: #ffcd67; border: 2px solid #efb94a; padding: 10px; width: 400px">
+
+        <h2>Exercise 8</h2>
+
+        <label for="input">Text</label><br />
+        <input type="text" id="input" />
+        <button onclick="sort()">Sort</button>
+
+        <p id="output"></p>
+
+        <script>
+            function sort() {
+                const charArray = (document.getElementById("input").value).split("");
+                document.getElementById("output").innerHTML = charArray.sort();
+            }
+        </script>
+
+        <a href="Index.html">Back to index page </a>
+
+        </div>
+        <script src="JavaScript.js"></script>
+</body>
+</html>

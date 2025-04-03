@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 14</title>
+</head>
+<body>
+    <div style="background-color: #7bac8e; border: 2px solid #5cb67f; padding: 10px; width: 400px">
+
+        <h2>Exercise 14</h2>
+
+        <p id="output"></p>
+
+        <script>
+            const workDays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+            let output = "";
+
+            for (i = 0; i < workDays.length; i++) {
+                output += workDays[i];
+
+                if (i < workDays.length - 2) {
+                    output += ", ";
+                }
+                else if (i == workDays.length - 2) {
+                    output += " and ";
+                }
+            }
+
+            document.getElementById("output").innerHTML = output + " are workdays.";
+
+        </script>
+
+        <a href="Index.html">Back to index page </a>
+
+        </div>
+        <script src="JavaScript.js"></script>
+</body>
+</html>

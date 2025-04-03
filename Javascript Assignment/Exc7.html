@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 7</title>
+</head>
+<body>
+    <div style="background-color: #d4fb9c; border: 2px solid #bfed7e; padding: 10px; width: 400px">
+
+        <h2>Exercise 7</h2>
+
+        <label for="input">Text</label><br />
+        <input type="text" id="input" />
+        <button onclick="combo()">Get combinations</button>
+
+        <p id="output"></p>
+
+        <script>
+            function combo() {
+                const charArray = (document.getElementById("input").value).split("");
+                let output = "";
+                for (let i = 0, k = 0; i < charArray.length; i++) {
+                    if (k < charArray.length) {
+                        i = 0;
+                    }
+                    output += charArray[i];
+                    console.log = output;
+                    for (let j = i + 1; j < charArray.length && j < k + 1; j++) {
+
+                        output += charArray[j]
+                    }
+                    k++;
+
+                    output += " ";
+                }
+                document.getElementById("output").innerHTML = output;
+
+            }
+        </script>
+
+
+        <a href="Index.html">Back to index page </a>
+
+        </div>
+        <script src="JavaScript.js"></script>
+</body>
+</html>

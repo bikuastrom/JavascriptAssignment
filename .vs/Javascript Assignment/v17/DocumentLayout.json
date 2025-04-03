@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc13.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc13.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc20.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc20.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc19.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc19.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|c:\\users\\student\\downloads\\javascript assignment\\javascript assignment\\javascript assignment\\exc18.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc18.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc11.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc11.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc17.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc17.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc16.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc16.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc15.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc15.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc14.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc14.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc12.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc12.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc10.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc10.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc9.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc9.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\exc2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\exc2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\javascript assignment\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D10E00-BE56-4AD7-B0A8-6550D93CA606}|Javascript Assignment\\Javascript Assignment.csproj|solutionrelative:javascript assignment\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Index.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Index.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Index.html",
+              "RelativeToolTip": "Javascript Assignment\\Index.html",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:56:52.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exc20.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc20.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc20.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc20.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc20.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:56:49.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exc19.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc19.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc19.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc19.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc19.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:56:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exc18.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc18.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc18.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc18.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc18.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:56:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exc17.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc17.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc17.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc17.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc17.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:56:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exc16.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc16.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc16.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc16.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc16.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:55:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exc15.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc15.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc15.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc15.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc15.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:55:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exc14.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc14.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc14.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc14.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc14.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:55:11.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exc13.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc13.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc13.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc13.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc13.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:54:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exc12.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc12.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc12.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc12.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc12.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:54:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exc11.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc11.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc11.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc11.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc11.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:53:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exc10.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc10.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc10.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc10.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc10.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T06:25:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exc9.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc9.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc9.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc9.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc9.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T05:44:07.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Exc8.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc8.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc8.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc8.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc8.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T05:42:59.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Exc7.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc7.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc7.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc7.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc7.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T05:42:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Exc6.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc6.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc6.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc6.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc6.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-23T05:41:10.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Exc5.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc5.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc5.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc5.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc5.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-19T13:52:01.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Exc4.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc4.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc4.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc4.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc4.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-19T13:17:46.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Exc3.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc3.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc3.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc3.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc3.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-19T12:08:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Exc2.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc2.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc2.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc2.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc2.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-19T11:11:40.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Exc1.html",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc1.html",
+              "RelativeDocumentMoniker": "Javascript Assignment\\Exc1.html",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\Javascript Assignment\\Javascript Assignment\\Javascript Assignment\\Exc1.html",
+              "RelativeToolTip": "Javascript Assignment\\Exc1.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-19T11:07:13.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

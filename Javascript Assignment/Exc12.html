@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 12</title>
+</head>
+<body>
+    <div style="background-color: #99baff; border: 2px solid #7099ee; padding: 10px; width: 400px">
+
+        <h2>Exercise 12</h2>
+
+        <button onclick="evenodd()">Start</button>
+        <p id="output"></p>
+
+        <script>
+            function evenodd() {
+                for (i = 0; i <= 15; i++) {
+
+
+                    if (i % 2 == 0) {
+                        document.getElementById("output").innerHTML += i + " is even<br>";
+                    }
+                    else if (i % 2 != 0) {
+                        document.getElementById("output").innerHTML += i + " is odd<br>";
+                    }
+                }
+            }
+        </script>
+
+        <a href="Index.html">Back to index page </a>
+
+        </div>
+        <script src="JavaScript.js"></script>
+</body>
+</html>

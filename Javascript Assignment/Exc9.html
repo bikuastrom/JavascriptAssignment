@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Exercise 9</title>
+</head>
+<body>
+    <div style="background-color: #95ffef; border: 2px solid #7ff2e1; padding: 10px; width: 400px">
+
+        <h2>Exercise 9</h2>
+
+        <label>Sentence</label><br />
+        <input type="text" id="input" />
+        <button onclick="wordLength()">Find longest word</button>
+
+        <p id="output"></p>
+
+        <script>
+            function wordLength() {
+                let sentence = (document.getElementById("input").value).split(" ");
+                let upperSent = "";
+                let longest = "";
+
+                for (let i = 0; i < sentence.length; i++) {
+                    sentence[i] = sentence[i][0].toUpperCase() + sentence[i].substring(1);
+                    upperSent += sentence[i] + " ";
+                }
+
+                for (let i = 0; i < sentence.length; i++) {
+                    if (sentence[i].length > longest.length) {
+                        longest = sentence[i];
+                    }
+                }
+                document.getElementById("output").innerHTML = upperSent + "- the longest word is " + longest;
+            }
+        </script>
+
+
+        <a href="Index.html">Back to index page </a>
+
+        </div>
+        <script src="JavaScript.js"></script>
+</body>
+</html>
